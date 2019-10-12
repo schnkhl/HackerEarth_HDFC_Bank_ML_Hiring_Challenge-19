@@ -43,3 +43,5 @@ The evaluation criteria for the two use cases are defined as follows:
   * Clarity of thought
   * Clarity of understanding of the problem
 
+# F1_score: 0.89
+# Rank: 20
